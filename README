@@ -1,7 +1,7 @@
 # Farm Management System
 
 Welcome to the Farm Management System project! This repository contains a web application built using PHP, MySQL, HTML, CSS, jQuery, and Bootstrap. The project aims to streamline farm management by providing functionalities for staff login, investor login, and an administrator to manage the system. Staff can give daily reports, and investors can oversee farm activities.
-
+............................................................................................
 ## Table of Contents
 
 - [Introduction](#introduction)
