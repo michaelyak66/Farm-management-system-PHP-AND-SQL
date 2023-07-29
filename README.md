@@ -31,7 +31,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/farm-management-system.git
+git clone git@github.com:michaelyak66/Farm-management-system-PHP-AND-SQL.git
 ```
 
 2. Install XAMPP or any other suitable local server environment.
